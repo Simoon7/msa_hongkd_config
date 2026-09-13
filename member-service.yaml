@@ -1,0 +1,10 @@
+jwt:
+  expiration: 1000
+  secretKey: (여기에 base64 시크릿, msa_mono_hongkd 것과 같이 써도 되고 새로 만들어도 됨)
+  expirationRt: 288000
+  secretKeyRt: (여기에 base64 시크릿)
+
+spring:
+  redis:
+    host: localhost
+    port: 6379
