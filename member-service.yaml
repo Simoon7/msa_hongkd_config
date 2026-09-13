@@ -1,8 +1,10 @@
 jwt:
   expiration: 1000
-  secretKey: (여기에 base64 시크릿, msa_mono_hongkd 것과 같이 써도 되고 새로 만들어도 됨)
+  secretKey: 3xIowMMEk1+XTK0Od3N0q5sReRxFN4NcAh0YcnWPPH1qi0I2ZkiNevHCMzqIoc/4
+  dTQew6WmrcCKkd1mkVEPJQ==
   expirationRt: 288000
-  secretKeyRt: (여기에 base64 시크릿)
+  secretKeyRt: wKb5evPECr7CKe+GBkQAylp96zkk02+p0KxG1vAypRzy9W/VGxmBCfK4e4c5p0Vv
+  /JAVUbhOHiuxIrBVZ1dbqQ==
 
 spring:
   redis:
